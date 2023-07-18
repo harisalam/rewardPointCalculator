@@ -1,0 +1,43 @@
+[
+  {
+    "customerId": 1,
+    "transactionDate": "2023-05-01",
+    "transactionAmount": 120.0
+  },
+  {
+    "customerId": 1,
+    "transactionDate": "2023-06-10",
+    "transactionAmount": 121.0
+  },
+  {
+    "customerId": 1,
+    "transactionDate": "2023-07-01",
+    "transactionAmount": 55.0
+  },
+  {
+    "customerId": 1,
+    "transactionDate": "2023-04-01",
+    "transactionAmount": 55.0
+  },
+  {
+    "customerId": 2,
+    "transactionDate": "2023-05-01",
+    "transactionAmount": 110.0
+  },
+  {
+    "customerId": 2,
+    "transactionDate": "2023-06-10",
+    "transactionAmount": 90.0
+  },
+  {
+    "customerId": 2,
+    "transactionDate": "2023-07-01",
+    "transactionAmount": 65.0
+  },
+  {
+    "customerId": 2,
+    "transactionDate": "2023-07-31",
+    "transactionAmount": 155.0
+  }
+
+]
